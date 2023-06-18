@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Worlds of Art</string>
+    <string name="anime_name">museum_name</string>
+    <string name="description">description</string>
+    <string name="mode_malam">Mode Malam</string>
+    <string name="notification">Notifikasi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
